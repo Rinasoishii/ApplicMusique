@@ -1,0 +1,7 @@
+
+La classe qui permet l'interaction avec l'utilisateur et  les fichiers ?
+--> La classe Application
+
+Elle gère des recommandations enregistrées dans un ficher de format json et qui devront être associées à des Étudiants.
+
+
